@@ -1,0 +1,8 @@
+mvn archetype:generate
+Answer:
+- Number from maven-archetype-webapp
+- groupId: dk.babra.roundtripTest
+- artifactId: RoundtripTest
+- version: 1.0
+- package: dk.babra.roundtripTest
+
