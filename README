@@ -6,3 +6,8 @@ Answer:
 - version: 1.0
 - package: dk.babra.roundtripTest
 
+Create a war file
+mvn package
+
+To run it in tomcat:
+mvn tomcat:run
